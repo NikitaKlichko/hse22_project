@@ -15,3 +15,6 @@ hyacinthi | 1 | 0 | 1 | 4963026 | 4385 | 86.9 | 4918645 | 138494 | 1369694 |
 theicola | 1 | 0 | 1 | 4785596 | 4541 | 85.6 | 4744641 | 130754 | 1295114 | 
 translucens pv. undulosa | 1 | 0 | 2 | 4649333 | 4037 | 85.7 | 4563212 | 128993 | 1276212 | 
 
+![pic](file:///D:/bioinf2/project/result_alighnment/Cluster1.JPG) 
+
+
