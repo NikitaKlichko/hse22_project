@@ -61,4 +61,34 @@ translucens pv. undulosa | 1 | 0 | 2 | 4649333 | 4037 | 85.7 | 4563212 | 128993 
 |8    |5        |5    |1.0           |WP_104604391.1        |WP_016903181.1         |WP_046978138.1       |WP_128419433.1      |WP_003465531.1                                    |[65884.11, 904.32, 941334.2, 198956.2, 29467.88]|247309.342   |EBN15_RS08065                |H7A86_RS09835                 |FZ025_RS18945               |G4Q83_RS04810              |ISN38_RS19120                 |type II toxin-antitoxin system VapC family toxin|type II toxin-antitoxin system VapC family toxin|type II toxin-antitoxin system VapC family toxin|type II toxin-antitoxin system VapC family toxin|type II toxin-antitoxin system VapC family toxin|
 |9    |5        |5    |1.0           |WP_029219710.1        |WP_016903166.1         |WP_170874001.1       |WP_185817409.1      |WP_170874001.1                                    |[883.5764, 1202.592, 198956.2, 198956.2, 941334.2]|268266.55368 |EBN15_RS07950                |H7A86_RS09760                 |FZ025_RS18870               |G4Q83_RS04615              |ISN38_RS00360                 |transcription elongation factor GreA|transcription elongation factor GreA|transcription elongation factor GreA|transcription elongation factor GreA|transcription elongation factor GreA            |
 
+# Множественное белковое выравнивание для каждого выбранного кластера 
+
+До и после выравнивания см [alignment](https://github.com/NikitaKlichko/hse22_project/tree/main/alignment) 
+Скриншоты самого выраванивания ниже (сдвинем индекс кластеров на один, чтобы первый кластер начинался с единицы): 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster1.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster2.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster3.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster4.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster5.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster6.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster7.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster8.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster9.JPG) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster10.JPG) 
+
+# Визуализация расположения участков Z-DNA для каждого выбранного кластера 
+
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast1.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast2.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast3.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast4.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast5.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast6.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast7.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast8.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast9.png) 
+![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/v-clast10.png) 
+
+
+
 
