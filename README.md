@@ -63,7 +63,8 @@ translucens pv. undulosa | 1 | 0 | 2 | 4649333 | 4037 | 85.7 | 4563212 | 128993 
 
 # Множественное белковое выравнивание для каждого выбранного кластера 
 
-До и после выравнивания см [alignment](https://github.com/NikitaKlichko/hse22_project/tree/main/alignment) 
+До и после выравнивания см [alignment](https://github.com/NikitaKlichko/hse22_project/tree/main/alignment)  
+
 Скриншоты самого выраванивания ниже (сдвинем индекс кластеров на один, чтобы первый кластер начинался с единицы): 
 ![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster1.JPG) 
 ![](https://github.com/NikitaKlichko/hse22_project/blob/main/imgs/Cluster2.JPG) 
